@@ -1,7 +1,7 @@
 # take-away-fire-sheriffs
 Group project
 
-Fullstack project
+Fullstack project , Typescript , Vite , Redux , SCSS publicerad med Docker och Render.com
 
 ![Login](https://github.com/christopherwahlstrom/take-away-fire-sheriffs/assets/83230387/1472fb3a-3a1a-47d8-8cf3-33de0a95e1e9)
 ![Create Account](https://github.com/christopherwahlstrom/take-away-fire-sheriffs/assets/83230387/55fd473f-5d24-4943-b489-6a2c3839be30)
